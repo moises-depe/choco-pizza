@@ -4,13 +4,11 @@ import MyButtons from './MyButtons';
 export default class MyHeader extends React.Component {
     render() {
         return (
-            <div>Delicious <div>
+            <div className="head">Delicious
                 <MyButtons />
-            </div>
             </div>
 
         )
-
 
     }
 

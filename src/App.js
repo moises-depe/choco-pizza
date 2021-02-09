@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './App.css';
+// import style from './App.css';
 import MyHeader from './MyHeader.js';
 import MyIngredients from './MyIngredients.js';
 import MyFooter from './MyFooter.js';
